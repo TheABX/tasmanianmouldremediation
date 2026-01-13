@@ -1,0 +1,41 @@
+═══════════════════════════════════════════════════════════════
+  QUICK START - Run These Commands in Terminal
+═══════════════════════════════════════════════════════════════
+
+1. Open Terminal
+
+2. Navigate to project:
+   cd "/Users/deonkenzie/Desktop/Mould Busters"
+
+3. Start server:
+   npm run dev
+
+4. Wait for "Ready" message (30-60 seconds first time)
+
+5. Open browser:
+   http://localhost:3000
+
+═══════════════════════════════════════════════════════════════
+  IF YOU SEE ERRORS:
+═══════════════════════════════════════════════════════════════
+
+PostCSS Timeout Error?
+→ Try: NODE_OPTIONS='--max-old-space-size=4096' npm run dev
+
+Port 3000 Busy?
+→ Try: npm run dev -- -p 3001
+
+Still Not Working?
+→ Share the exact error message from terminal
+
+═══════════════════════════════════════════════════════════════
+  TEST PAGE:
+═══════════════════════════════════════════════════════════════
+
+Once server starts, test with:
+http://localhost:3000/test
+
+If test page works, main site should work too.
+
+═══════════════════════════════════════════════════════════════
+
