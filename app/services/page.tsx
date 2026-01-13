@@ -175,6 +175,7 @@ export default function ServicesPage() {
                   <span><strong>Where documentation is needed</strong> – for property managers, insurance claims, or property records</span>
                 </li>
               </ul>
+            </div>
 
             <div className="mt-8 bg-primary-50 p-6 rounded-lg border-l-4 border-primary-600">
               <p className="text-gray-900">
