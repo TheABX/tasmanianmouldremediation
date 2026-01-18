@@ -72,7 +72,7 @@ export default function ServicesPage() {
             We provide professional remediation and moisture assessment services for property managers and homeowners across North West Coast Tasmania and Launceston.
           </p>
           <p className="text-lg text-gray-600 max-w-3xl">
-            Our focus is on proper remediation that addresses root causes and prevents recurrence. We're not a quick-clean service—we're specialists in thorough assessment and remediation.
+            Our focus is on proper remediation that addresses root causes and prevents recurrence. We are not a quick-clean service - we are specialists in thorough assessment and remediation.
           </p>
         </div>
       </section>
