@@ -47,7 +47,7 @@ const services = [
   },
   {
     title: 'Prevention & Ventilation Guidance',
-    description: 'Practical guidance to prevent mould recurrence. We provide clear, actionable steps based on your property\'s specific conditions.',
+    description: "Practical guidance to prevent mould recurrence. We provide clear, actionable steps based on your property's specific conditions.",
     features: [
       'Assessment of ventilation and airflow issues',
       'Practical recommendations for moisture control',
